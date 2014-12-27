@@ -20,7 +20,6 @@ cask install imageoptim
 cask install iterm2
 cask install kaleidoscope
 cask install mamp
-cask install miro-video-converter
 cask install skype
 cask install sourcetree
 cask install vagrant
