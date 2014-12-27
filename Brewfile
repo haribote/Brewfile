@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 ## caskroom/cask
@@ -40,75 +39,20 @@ install peco
 tap rcmdnk/file
 install brew-file
 
-## sanemat/font
-tap sanemat/font
-install ricty --powerline
-
 # Other Homebrew packages
-install autoconf
-install automake
-install bison
-install cairo
-install czmq
-install faac
-install ffmpeg
-install fontconfig
-install fontforge --with-python
-install freetype
-install gdbm
-install gettext
 install git
-install glib
-install gmp
-install gobject-introspection
-install harfbuzz
 install hub
-install icu4c
-install jpeg
 install jq
-install lame
-install libevent
-install libffi
-install libpng
-install libsodium
-install libtiff
-install libtool
-install libvo-aacenc
-install openssl
-install ossp-uuid
-install pandoc
-install pango
-install pcre
-install pixman
-install pkg-config
-install python
-install rbenv
-install readline
-install ruby-build
-install sqlite
-install tig
-install tmux
 install tree
-install x264
-install xvid
-install xz
-install zeromq
 install zsh
-
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install android-studio-bundle (!)
 
 # App Store applications
 appstore 1Password
-appstore Airmail
 appstore Caffeine
 appstore JPEGmini Lite
 appstore Keynote
 appstore Kobito
 appstore Name Mangler 3
-appstore Name Mangler
 appstore Skitch
 appstore Slicy
 appstore SoraAnnai
