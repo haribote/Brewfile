@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
@@ -40,24 +41,14 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install bison
+install gdbm
 install git
 install hub
 install jq
+install pcre
 install tree
 install zsh
 
 # App Store applications
-appstore 1Password
-appstore Caffeine
-appstore JPEGmini Lite
-appstore Keynote
-appstore Kobito
-appstore Name Mangler 3
-appstore Skitch
-appstore Slicy
-appstore SoraAnnai
-appstore The Unarchiver
-appstore Transmit
-appstore Tweetbot
-appstore WinArchiver
 appstore Xcode
