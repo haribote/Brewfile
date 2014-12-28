@@ -30,6 +30,7 @@ cask install webstorm
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install sublime-text3
 
 ## peco/peco
 tap peco/peco
