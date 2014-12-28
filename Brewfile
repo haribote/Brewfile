@@ -41,12 +41,17 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install autoconf
 install bison
 install gdbm
 install git
 install hub
 install jq
+install openssl
 install pcre
+install pkg-config
+install rbenv
+install ruby-build
 install tree
 install zsh
 
