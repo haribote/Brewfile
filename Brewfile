@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install 1password
 cask install adobe-creative-cloud
 cask install alfred
 cask install appcleaner
@@ -12,6 +13,7 @@ cask install charles
 cask install clamxav
 cask install dash
 cask install dropbox
+cask install google-chrome
 cask install google-earth
 cask install handbrake
 cask install hyperswitch
@@ -30,6 +32,7 @@ cask install webstorm
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install google-chrome-canary
 cask install sublime-text3
 
 ## peco/peco
