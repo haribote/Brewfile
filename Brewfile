@@ -59,14 +59,4 @@ install tree
 install zsh
 
 # App Store applications
-appstore Caffeine
-appstore Keynote
-appstore Kobito
-appstore Name Mangler 3
-appstore Skitch
-appstore SoraAnnai
-appstore The Unarchiver
-appstore Transmit
-appstore Tweetbot
-appstore WinArchiver
 appstore Xcode
