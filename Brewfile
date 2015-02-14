@@ -56,7 +56,10 @@ install pkg-config
 install rbenv
 install ruby-build
 install tree
+install youtube-dl
 install zsh
 
 # App Store applications
+appstore Caffeine
+appstore Tweetbot
 appstore Xcode
