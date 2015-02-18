@@ -34,6 +34,7 @@ tap caskroom/versions
 cask install firefox-ja
 cask install google-chrome-canary
 cask install sublime-text3
+cask install webstorm-eap
 
 ## peco/peco
 tap peco/peco
