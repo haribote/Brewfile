@@ -60,6 +60,9 @@ install tree
 install youtube-dl
 install zsh
 
+# Cask applications
+cask install virtualbox
+
 # App Store applications
 appstore Caffeine
 appstore Keynote
