@@ -56,6 +56,7 @@ install pcre
 install pkg-config
 install rbenv
 install ruby-build
+install tig
 install tree
 install youtube-dl
 install zsh
@@ -65,13 +66,6 @@ cask install virtualbox
 
 # App Store applications
 appstore Caffeine
-appstore Keynote
-appstore Kobito
-appstore Name Mangler 3
-appstore Skitch
 appstore SoraAnnai
-appstore The Unarchiver
-appstore Transmit
 appstore Tweetbot
-appstore WinArchiver
 appstore Xcode
