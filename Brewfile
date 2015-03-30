@@ -53,8 +53,11 @@ install jq
 install openssl
 install pcre
 install pkg-config
+install python
 install rbenv
+install readline
 install ruby-build
+install sqlite
 install tig
 install tree
 install youtube-dl
@@ -65,6 +68,7 @@ appstore Caffeine
 appstore Keynote
 appstore Kobito
 appstore Name Mangler 3
+appstore Sketch
 appstore Skitch
 appstore SoraAnnai
 appstore The Unarchiver
