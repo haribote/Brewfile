@@ -33,6 +33,7 @@ tap caskroom/versions
 cask install firefox-ja
 cask install google-chrome-canary
 cask install sublime-text3
+cask install webstorm-eap
 
 ## peco/peco
 tap peco/peco
@@ -62,13 +63,10 @@ install tree
 install youtube-dl
 install zsh
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask install webstorm-eap (!)
-
 # App Store applications
 appstore Caffeine
+appstore OneDrive
 appstore SoraAnnai
+appstore The Unarchiver
 appstore Tweetbot
 appstore Xcode
