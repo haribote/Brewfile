@@ -27,6 +27,7 @@ cask install sourcetree
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install webstorm
 
 ## caskroom/versions
 tap caskroom/versions
