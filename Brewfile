@@ -3,66 +3,66 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install 1password
-cask install adobe-creative-cloud
-cask install alfred
-cask install appcleaner
-cask install bartender
-cask install charles
-cask install clamxav
-cask install dash
-cask install dropbox
-cask install google-chrome
-cask install google-earth
-cask install handbrake
-cask install hyperswitch
-cask install imagealpha
-cask install imageoptim
-cask install iterm2
-cask install kaleidoscope
-cask install mamp
-cask install skype
-cask install sourcetree
-cask install vagrant
-cask install virtualbox
-cask install vlc
-cask install webstorm
+brew brew-cask
+cask 1password
+cask adobe-creative-cloud
+cask alfred
+cask appcleaner
+cask bartender
+cask charles
+cask clamxav
+cask dash
+cask dropbox
+cask google-chrome
+cask google-earth
+cask handbrake
+cask hyperswitch
+cask imagealpha
+cask imageoptim
+cask iterm2
+cask kaleidoscope
+cask mamp
+cask skype
+cask sourcetree
+cask vagrant
+cask virtualbox
+cask vlc
+cask webstorm
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
-cask install google-chrome-canary
-cask install sublime-text3
-cask install webstorm-eap
+cask firefox-ja
+cask google-chrome-canary
+cask sublime-text3
+cask webstorm-eap
 
 ## peco/peco
 tap peco/peco
-install peco
+brew peco
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install autoconf
-install bison
-install gdbm
-install git
-install hub
-install jq
-install openssl
-install pcre
-install pkg-config
-install python
-install rbenv
-install readline
-install ruby-build
-install sqlite
-install tig
-install tree
-install youtube-dl
-install zsh
+brew autoconf
+brew bison
+brew gdbm
+brew git
+brew hub
+brew jq
+brew openssl
+brew pcre
+brew pkg-config
+brew python
+brew rbenv
+brew readline
+brew ruby-build
+brew sqlite
+brew tig
+brew tree
+brew youtube-dl
+brew zsh
 
 # App Store applications
 appstore Caffeine
