@@ -22,6 +22,7 @@ cask imageoptim
 cask iterm2
 cask kaleidoscope
 cask mamp
+cask rubymine
 cask skype
 cask sourcetree
 cask vagrant
@@ -47,10 +48,16 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew bison
+brew freetype
 brew gdbm
 brew git
 brew hub
+brew imagemagick
+brew jpeg
 brew jq
+brew libpng
+brew libtool
+brew mysql
 brew openssl
 brew pcre
 brew pkg-config
@@ -61,6 +68,7 @@ brew ruby-build
 brew sqlite
 brew tig
 brew tree
+brew xz
 brew youtube-dl
 brew zsh
 
