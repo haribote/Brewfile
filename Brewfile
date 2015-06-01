@@ -21,6 +21,7 @@ cask imagealpha
 cask imageoptim
 cask iterm2
 cask kaleidoscope
+cask kobito
 cask mamp
 cask rubymine
 cask skype
@@ -55,6 +56,7 @@ brew hub
 brew imagemagick
 brew jpeg
 brew jq
+brew libevent
 brew libpng
 brew libtool
 brew mysql
@@ -67,6 +69,7 @@ brew readline
 brew ruby-build
 brew sqlite
 brew tig
+brew tmux
 brew tree
 brew xz
 brew youtube-dl
