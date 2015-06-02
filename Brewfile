@@ -28,6 +28,7 @@ cask skype
 cask sourcetree
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vlc
 cask webstorm
 
@@ -50,6 +51,7 @@ brew brew-file
 brew autoconf
 brew bison
 brew freetype
+brew ffmpeg
 brew gdbm
 brew git
 brew hub
