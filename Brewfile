@@ -50,17 +50,19 @@ brew brew-file
 # Other Homebrew packages
 brew autoconf
 brew bison
-brew freetype
 brew ffmpeg
+brew freetype
 brew gdbm
 brew git
 brew hub
 brew imagemagick
 brew jpeg
 brew jq
+brew lame
 brew libevent
 brew libpng
 brew libtool
+brew libvo-aacenc
 brew mysql
 brew openssl
 brew pcre
@@ -73,14 +75,22 @@ brew sqlite
 brew tig
 brew tmux
 brew tree
+brew x264
+brew xvid
 brew xz
 brew youtube-dl
 brew zsh
 
 # App Store applications
 appstore Caffeine
-appstore OneDrive
+appstore Keynote
+appstore Kobito
+appstore Name Mangler 3
+appstore Sketch
+appstore Skitch
 appstore SoraAnnai
 appstore The Unarchiver
+appstore Transmit
 appstore Tweetbot
+appstore WinArchiver
 appstore Xcode
