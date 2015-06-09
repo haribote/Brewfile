@@ -61,6 +61,7 @@ brew jq
 brew lame
 brew libevent
 brew libpng
+brew libtiff
 brew libtool
 brew libvo-aacenc
 brew mysql
@@ -83,14 +84,9 @@ brew zsh
 
 # App Store applications
 appstore Caffeine
-appstore Keynote
-appstore Kobito
-appstore Name Mangler 3
+appstore OneDrive
 appstore Sketch
-appstore Skitch
 appstore SoraAnnai
 appstore The Unarchiver
-appstore Transmit
 appstore Tweetbot
-appstore WinArchiver
 appstore Xcode
