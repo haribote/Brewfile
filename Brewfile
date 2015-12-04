@@ -10,7 +10,6 @@ cask bartender
 cask charles
 cask dash
 cask google-chrome
-cask hyperswitch
 cask iterm2
 cask kaleidoscope
 cask phpstorm
@@ -33,6 +32,8 @@ brew gdbm
 brew git
 brew jq
 brew pcre
+brew rbenv
+brew ruby-build
 brew tig
 brew zsh
 
