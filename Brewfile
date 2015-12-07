@@ -6,6 +6,7 @@ tap caskroom/cask
 brew brew-cask
 cask adobe-creative-cloud
 cask alfred
+cask appcleaner
 cask bartender
 cask charles
 cask dash
